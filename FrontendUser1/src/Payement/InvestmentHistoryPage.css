@@ -1,0 +1,62 @@
+.investment-history {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.page-title {
+  text-align: center;
+}
+
+.calendar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+/* InvestmentHistoryPage.css */
+.nav-button {
+  background-color: #ccc; /* Couleur de fond gris */
+  color: #fff; /* Couleur du texte blanc */
+  border: none;
+  padding: 10px 20px;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.nav-button:hover {
+  background-color: #bbb; /* Couleur de fond gris foncé au survol */
+}
+
+.month {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.chart-container {
+  margin-bottom: 20px;
+}
+
+.investment-list {
+  border-top: 1px solid #ccc;
+  padding-top: 20px;
+}
+
+.investment-item {
+  margin-bottom: 10px;
+}
+
+.investment-info {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.investment-id {
+  font-weight: bold;
+}
+
+.investment-date {
+  font-style: italic;
+}

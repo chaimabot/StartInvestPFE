@@ -1,0 +1,7 @@
+.modal-xl {
+  max-width: 90%; /* Définissez la largeur maximale de la fenêtre modale */
+}
+
+.modal-content {
+  width: 100%; /* Définissez la largeur du contenu modal sur 100% */
+}

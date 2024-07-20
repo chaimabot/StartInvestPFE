@@ -1,0 +1,8 @@
+.error-message {
+  background-color: #f8d7da; /* Couleur de fond */
+  border: 1px solid #f5c6cb; /* Bordure */
+  color: #721c24; /* Couleur du texte */
+  padding: 10px 15px; /* Espacement intérieur */
+  margin-bottom: 20px; /* Marge en bas */
+  border-radius: 5px; /* Coins arrondis */
+}

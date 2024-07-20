@@ -1,0 +1,10 @@
+.header-static {
+  background-image: linear-gradient(
+    to right,
+    #eceec0,
+    #d787be
+  ); /* Vous pouvez ajuster les couleurs selon votre préférence */
+}
+.nav-link.icon-md.btn.btn-light.p-0 {
+  color: white; /* Changer la couleur de l'icône en blanc */
+}
